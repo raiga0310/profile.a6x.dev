@@ -29,9 +29,9 @@ export default defineConfig({
       {
         text: '開発物',
         items: [
-          { text: 'ShowerTime', link: '/products/shower_time' },
-          { text: 'Midi-bevy', link: '/products/midi_bevy' },
-          { text: 'GarbageCollector', link: '/products/garbage_collector' },
+          { text: 'ShowerTime', link: '/products/shower_time/' },
+          { text: 'Midi-bevy', link: '/products/midi_bevy/' },
+          { text: 'GarbageCollector', link: '/products/garbage_collector/' },
         ]
       }
     ],
@@ -47,7 +47,7 @@ export default defineConfig({
   async transformHead(context) {
     return [
       ["meta", { property: "og:title", content: context.pageData.title }],
-      ["meta", { property: "og:url", content: `https://profile.a6x.dev/${context.pageData.filePath.replace(/^\//, "").replace(/\.md$/, "")}` }],
+      ["meta", { property: "og:url", content: `https://profile.a6x.dev/${context.pageData.filePath.replace(/^\//, "").replace(/\.md$/, "/index.html")}` }],
     ];
   },
 })
