@@ -4,7 +4,7 @@ import { data as products }from "../../products.data.ts";
 
 <template>
     <div class="home-products-container container">
-        <h3 class="product-title inner">
+        <h3 class="products-title inner">
             <a href="/products">Products</a>
         </h3>
 
@@ -24,6 +24,7 @@ import { data as products }from "../../products.data.ts";
 
 <style lang="scss" scoped>
 .container {
+  padding-top: 24px;
   padding-left: 24px;
   padding-right: 24px;
 
