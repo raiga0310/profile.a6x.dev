@@ -26,3 +26,9 @@ features:
   - title: 散歩
     details: 休日朝早く起きられたら8時間くらい歩いたり自転車ころがしたり｡
 ---
+
+<script lang="ts" setup>
+  import Products from "./.vitepress/theme/components/Products.vue"
+</script>
+
+<Products />
