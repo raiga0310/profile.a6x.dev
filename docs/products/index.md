@@ -6,6 +6,6 @@
 
 <ul>
     <li v-for="product of products">
-        <a :href="product.url">{{ product.frontmatter.title }}</a>
+        <a :href="product.url">{{ product.frontmatter.emoji }}{{ product.frontmatter.title }}</a>
     </li>
 </ul>
