@@ -3,7 +3,7 @@ import { VPTeamMembers } from 'vitepress/theme';
 
 const members = [
     {
-        avater: 'https://github.com/raiga0310.png',
+        avater: 'https://avatars.githubusercontent.com/u/44018535?v=4',
         title: 'Student',
         links: [
             { icon : 'github', link: 'https://github,com/raiga0310' },
@@ -11,7 +11,7 @@ const members = [
             { icon : 'instagram', link: 'https://instagram.com/raiga__' },
             { icon : 'facebook', link: 'https://www.facebook.com/profile.php?id=100011680381928' },
             { icon : 'linkedin', link: 'https://www.linkedin.com/in/raiga-sasayama-768b661a5/' },
-            { icon: 'discord', link: 'https://discordapp.com/users/622077711309078529' } 
+            { icon: 'discord', link: 'https://discord.com/users/622077711309078529' } 
         ]
     }
 ];

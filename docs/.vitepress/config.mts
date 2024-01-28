@@ -38,7 +38,7 @@ export default defineConfig({
     ],
 
     socialLinks: [
-      { icon: 'github', link: 'https://github.com/raiga0310' }
+      { icon: 'github', link: 'https://github.com/raiga0310/profile.a6x.dev' }
     ],
     footer: {
       message: '',
