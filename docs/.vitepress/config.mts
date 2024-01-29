@@ -45,7 +45,7 @@ export default defineConfig({
       copyright: 'Copyright © 2024 raiga0310 All rights reserved.'
     }
   },
-  srcExclude: ["**/README.md"],
+  srcExclude: ["README.md"],
   async transformHead(context) {
     return [
       ["meta", { property: "og:title", content: context.pageData.title }],
