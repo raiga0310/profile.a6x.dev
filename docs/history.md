@@ -18,4 +18,6 @@
 ### :office: 株式会社PR TIMES開発本部 長期インターン
 2023年10月~
 
+- https://developers.prtimes.jp/2024/02/21/introduce_phpstan_custom_rule/
+
 coming soon...:rocket:

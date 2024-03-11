@@ -67,3 +67,6 @@ Axumでバックエンドが中心で､Discord Bot開発や､最近はWASM+Bev
 
 ### ハックツハッカソン ティラノカップ
 株式会社インフォコム西日本企業賞
+
+### PR TIMES Hackthon 2024 Winter
+個人賞 
