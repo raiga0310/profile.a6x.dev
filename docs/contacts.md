@@ -6,7 +6,7 @@ const members = [
         avater: 'https://avatars.githubusercontent.com/u/44018535?v=4',
         title: 'Student',
         links: [
-            { icon : 'github', link: 'https://github,com/raiga0310' },
+            { icon : 'github', link: 'https://github.com/raiga0310' },
             { icon : 'twitter', link: 'https://twitter.com/ahoxa1rx' },
             { icon : 'instagram', link: 'https://instagram.com/raiga__' },
             { icon : 'facebook', link: 'https://www.facebook.com/profile.php?id=100011680381928' },
