@@ -9,11 +9,11 @@ importers:
   .:
     devDependencies:
       sass:
-        specifier: ^1.81.1
-        version: 1.81.1
+        specifier: ^1.82.0
+        version: 1.82.0
       vitepress:
         specifier: 1.5.0
-        version: 1.5.0(@algolia/client-search@4.23.3)(postcss@8.4.47)(sass@1.81.1)(search-insights@2.14.0)
+        version: 1.5.0(@algolia/client-search@4.23.3)(postcss@8.4.47)(sass@1.82.0)(search-insights@2.14.0)
 
 packages:
 
@@ -751,8 +751,8 @@ packages:
     engines: {node: '>=18.0.0', npm: '>=8.0.0'}
     hasBin: true
 
-  sass@1.81.1:
-    resolution: {integrity: sha512-VNLgf4FC5yFyKwAumAAwwNh8X4SevlVREq3Y8aDZIkm0lI/zO1feycMXQ4hn+eB6FVhRbleSQ1Yb/q8juSldTA==}
+  sass@1.82.0:
+    resolution: {integrity: sha512-j4GMCTa8elGyN9A7x7bEglx0VgSpNUG4W4wNedQ33wSMdnkqQCT8HTwOaVSV4e6yQovcu/3Oc4coJP/l0xhL2Q==}
     engines: {node: '>=14.0.0'}
     hasBin: true
 
@@ -1266,9 +1266,9 @@ snapshots:
 
   '@ungap/structured-clone@1.2.0': {}
 
-  '@vitejs/plugin-vue@5.1.4(vite@5.4.10(sass@1.81.1))(vue@3.5.12)':
+  '@vitejs/plugin-vue@5.1.4(vite@5.4.10(sass@1.82.0))(vue@3.5.12)':
     dependencies:
-      vite: 5.4.10(sass@1.81.1)
+      vite: 5.4.10(sass@1.82.0)
       vue: 3.5.12
 
   '@vue/compiler-core@3.5.12':
@@ -1603,7 +1603,7 @@ snapshots:
       '@rollup/rollup-win32-x64-msvc': 4.21.0
       fsevents: 2.3.3
 
-  sass@1.81.1:
+  sass@1.82.0:
     dependencies:
       chokidar: 4.0.1
       immutable: 5.0.3
@@ -1681,16 +1681,16 @@ snapshots:
       '@types/unist': 3.0.2
       vfile-message: 4.0.2
 
-  vite@5.4.10(sass@1.81.1):
+  vite@5.4.10(sass@1.82.0):
     dependencies:
       esbuild: 0.21.5
       postcss: 8.4.47
       rollup: 4.21.0
     optionalDependencies:
       fsevents: 2.3.3
-      sass: 1.81.1
+      sass: 1.82.0
 
-  vitepress@1.5.0(@algolia/client-search@4.23.3)(postcss@8.4.47)(sass@1.81.1)(search-insights@2.14.0):
+  vitepress@1.5.0(@algolia/client-search@4.23.3)(postcss@8.4.47)(sass@1.82.0)(search-insights@2.14.0):
     dependencies:
       '@docsearch/css': 3.6.2
       '@docsearch/js': 3.6.2(@algolia/client-search@4.23.3)(search-insights@2.14.0)
@@ -1699,7 +1699,7 @@ snapshots:
       '@shikijs/transformers': 1.22.2
       '@shikijs/types': 1.22.2
       '@types/markdown-it': 14.1.2
-      '@vitejs/plugin-vue': 5.1.4(vite@5.4.10(sass@1.81.1))(vue@3.5.12)
+      '@vitejs/plugin-vue': 5.1.4(vite@5.4.10(sass@1.82.0))(vue@3.5.12)
       '@vue/devtools-api': 7.6.2
       '@vue/shared': 3.5.12
       '@vueuse/core': 11.1.0(vue@3.5.12)
@@ -1708,7 +1708,7 @@ snapshots:
       mark.js: 8.11.1
       minisearch: 7.1.0
       shiki: 1.22.2
-      vite: 5.4.10(sass@1.81.1)
+      vite: 5.4.10(sass@1.82.0)
       vue: 3.5.12
     optionalDependencies:
       postcss: 8.4.47
