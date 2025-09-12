@@ -22,4 +22,8 @@
 - https://developers.prtimes.jp/2024/03/26/improve_database_test_feat_phpunit/
 - https://developers.prtimes.jp/2024/08/28/handling_cidr_in_bigquery/
 
+### :office: Sansan株式会社 技術本部 Data Intelligence EU MasterData グループ サマーインターン
+2025年8月7日~2025年9月4日
+- https://newgradsevents.corp-sansan.com/engineer/200001
+
 coming soon...:rocket:
